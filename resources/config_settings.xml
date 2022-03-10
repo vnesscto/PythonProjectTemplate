@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Enviorment>
+    <Platform>web</Platform>
+    <BrowserType>chrome</BrowserType>
+    <webUrl>https://example.testproject.io/web/</webUrl>
+    <!--	desktop-->
+    <dc_app>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</dc_app>
+    <dc_platformName>Windows</dc_platformName>
+    <deviceName>WindowsPC</deviceName>
+    <dc_server>http://127.0.0.1:4723</dc_server>
+    <!--    appium-->
+    <reportDirectory>reports</reportDirectory>
+    <reportFormat>xml</reportFormat>
+    <testName>Untitled</testName>
+    <udid>RF8M90XHJMJ</udid>
+    <appActivity>.FinancialCalculators</appActivity>
+    <appPackage>com.financial.calculator</appPackage>
+    <platformName>android</platformName>
+    <server>http://localhost:4723/wd/hub</server>
+</Enviorment>
